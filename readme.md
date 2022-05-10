@@ -1,5 +1,5 @@
-# Hello there, I'm NeoAIChan!
-I do make unique Discord Bots!
+# Hello there, I'm Neo!
+I do make unique Discord Bots, that's it :P
 <hr>
 
 <i>Feel free to contract me via MinesaHub!</i>
