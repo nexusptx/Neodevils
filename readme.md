@@ -2,7 +2,7 @@
   <b>NeoAIChan</b>
 </h1>
 
-<p>Hello! I am Neo. I'm Interaction based Discord bot developer and it's my hobby. I'm currently over-studying to Web Development, Python and SQL with self-teaching.</p>
+<p>Hello! I am Neo. I'm Interaction based Discord bot developer and it's my hobby. I'm currently over-studying to Web Development, Python and SQL with self-teaching. Also aoi.js documentation helper 🖌</p>
 
 <br>
 
