@@ -41,8 +41,8 @@ if ( profile.username == 'NeoAIChan' ) {
   
   <summary><h1>My Github Stats</h1></summary>
   
-<img height="140px" src="https://github-readme-stats.vercel.app/api?username=NeoAIChan&show_icons=true&locale=en&theme=github_dark"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeoAIChan&layout=compact&show_icons=true&locale=en&theme=github_dark"/>
+<img height="140px" src="https://github-readme-stats.vercel.app/api?username=Neodevils&show_icons=true&locale=en&theme=github_dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neodevils&layout=compact&show_icons=true&locale=en&theme=github_dark"/>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=data-devils&repo=basito-js&show_icons=true&locale=en&theme=github_dark"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=NeoAIChan&repo=texas&show_icons=true&locale=en&theme=github_dark"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Neodevils&repo=texas&show_icons=true&locale=en&theme=github_dark"/>
 </details>
