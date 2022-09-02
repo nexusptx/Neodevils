@@ -28,21 +28,12 @@ if ( profile.username == 'NeoAIChan' ) {
 ```
 <hr>
 
-<h1 align="center">
-  <b>Listening to Spotify</b>
-</h1>
-
-![Those tracks are my most played tracks!](https://spotify-recently-played-readme.vercel.app/api?user=21tzlvnjjxoiakmtssmu7mbqi)
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21tzlvnjjxoiakmtssmu7mbqi&cover_image=true&theme=default&bar_color=f0b2d6&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=21tzlvnjjxoiakmtssmu7mbqi&redirect=true)
-
-<hr>
-
 <details>
   
   <summary><h1>My Github Stats</h1></summary>
   
-<img height="140px" src="https://github-readme-stats.vercel.app/api?username=Neodevils&show_icons=true&locale=en&theme=github_dark"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neodevils&layout=compact&show_icons=true&locale=en&theme=github_dark"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=data-devils&repo=basito-js&show_icons=true&locale=en&theme=github_dark"/>
+<img height="140px" src="https://github-readme-stats.vercel.app/api?username=Neodevils&show_icons=true&locale=en&theme=github_dark"/><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neodevils&layout=compact&show_icons=true&locale=en&theme=github_dark"/><br>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=data-devils&repo=basito-js&show_icons=true&locale=en&theme=github_dark"/><br>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Neodevils&repo=texas&show_icons=true&locale=en&theme=github_dark"/>
 </details>
