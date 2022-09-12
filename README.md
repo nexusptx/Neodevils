@@ -8,7 +8,7 @@
 		<img src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=F0DB4F&labelColor=282828"><br>
 		<img src="https://img.shields.io/badge/-Python-FFE873?style=for-the-badge&logo=python&logoColor=FFE873&labelColor=282828">
     </p>
-    <hr width="455px">
+    <hr width="155px">
 	<details>
         <summary>Details of Me</summary><br>
         I 💗 to code anything about Python, cause I got interest on it.<br><br>
