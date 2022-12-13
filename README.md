@@ -4,6 +4,7 @@
     <h2>Hey, I am Neo 👋</h2>
     <p>
         I am a developer interested on <strong>Python</strong> ☝️, but still wants to go for Front-end Development which is <strong>HTML-CSS-JS</strong> trio 🪐.<br>
+	<p> <img src="https://komarev.com/ghpvc/?username=neodevils&label=Profile%20Views&color=ff6e6e&style=flat-square" alt="neodevils" /> </p>
         <a href="https://neoaichan.me/" target="_blank" style="text-decoration: underline">Portfolio</a><br>
 		<img src="https://img.shields.io/badge/-HTML-ffa657?style=for-the-badge&logo=html5&logoColor=ffa657&labelColor=282828">
 		<img src="https://img.shields.io/badge/-CSS-8fbcff?style=for-the-badge&logo=css3&logoColor=8fbcff&labelColor=282828">
