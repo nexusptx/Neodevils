@@ -22,7 +22,7 @@
 	</details>
     <details>
         <summary>Github Stats</summary><br>
-        <img src="https://github-readme-stats.vercel.app/api?username=neodevils&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&text_color=d7dce8&title_color=8fbcff&icon_color=8fbcff&bg_color=1b1f27&border_radius=8&disable_animations=false&hide_title=true&line_height=29px" width="420px">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neodevils&hide_border=true&layout=compact&text_color=dddddd&bg_color=1b1f27&border_radius=8&hide_title=true" width="420px">
+        <img src="https://github-readme-stats.vercel.app/api?username=Neodevils&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&text_color=d7dce8&title_color=8fbcff&icon_color=8fbcff&bg_color=1b1f27&border_radius=8&disable_animations=false&hide_title=true&line_height=29px" width="420px">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neodevils&hide_border=true&layout=compact&text_color=dddddd&bg_color=1b1f27&border_radius=8&hide_title=true" width="420px">
     </details>
 </div>
